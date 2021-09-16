@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Credibility of Information | EM</title>
+    <link>https://vagmcs.github.io/tag/credibility-of-information/</link>
+      <atom:link href="https://vagmcs.github.io/tag/credibility-of-information/index.xml" rel="self" type="application/rss+xml" />
+    <description>Credibility of Information</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>Credibility of Information</title>
+      <link>https://vagmcs.github.io/tag/credibility-of-information/</link>
+    </image>
+    
+    <item>
+      <title>REVEAL</title>
+      <link>https://vagmcs.github.io/project/reveal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/reveal/</guid>
+      <description>&lt;p&gt;REVEAL aimed to advance the necessary technologies for making a higher level analysis of social media possible. The project enables users to reveal hidden modalities such as reputation, influence or credibility of information in order to perform social media verification.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

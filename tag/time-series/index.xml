@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>time-series | EM</title>
+    <link>https://vagmcs.github.io/tag/time-series/</link>
+      <atom:link href="https://vagmcs.github.io/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <description>time-series</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>time-series</title>
+      <link>https://vagmcs.github.io/tag/time-series/</link>
+    </image>
+    
+    <item>
+      <title>An Empirical Evaluation of Early Time-Series Classification Algorithms</title>
+      <link>https://vagmcs.github.io/pub/an-empirical-evaluation-of-early-time-series-classification-algorithms/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/an-empirical-evaluation-of-early-time-series-classification-algorithms/</guid>
+      <description>&lt;p&gt;The life-sciences and maritime datasets can be obtained from the &lt;em&gt;&lt;strong&gt;Dataset&lt;/strong&gt;&lt;/em&gt; link in the description of the
+publication. The UCR dataset is a publicly available collection and can be found
+&lt;a href=&#34;http://www.timeseriesclassification.com/dataset.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

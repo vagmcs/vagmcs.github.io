@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EM</title>
+    <link>https://vagmcs.github.io/</link>
+      <atom:link href="https://vagmcs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>EM</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>EM</title>
+      <link>https://vagmcs.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Optimus</title>
+      <link>https://vagmcs.github.io/software/optimus/</link>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/software/optimus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScalaTIKZ</title>
+      <link>https://vagmcs.github.io/software/scalatikz/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/software/scalatikz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRML</title>
+      <link>https://vagmcs.github.io/software/prml/</link>
+      <pubDate>Tue, 25 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/software/prml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LoMRF</title>
+      <link>https://vagmcs.github.io/software/lomrf/</link>
+      <pubDate>Tue, 25 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/software/lomrf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Semi-Supervised Learning of Composite Event Rules Combining Structure and Mass-Based Predicate Similarity</title>
+      <link>https://vagmcs.github.io/pub/splice_plus/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/splice_plus/</guid>
+      <description>&lt;p&gt;Data and source code will be uploaded as soon as the paper gets published.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Empirical Evaluation of Early Time-Series Classification Algorithms</title>
+      <link>https://vagmcs.github.io/pub/an-empirical-evaluation-of-early-time-series-classification-algorithms/</link>
+      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/an-empirical-evaluation-of-early-time-series-classification-algorithms/</guid>
+      <description>&lt;p&gt;The life-sciences and maritime datasets can be obtained from the &lt;em&gt;&lt;strong&gt;Dataset&lt;/strong&gt;&lt;/em&gt; link in the description of the
+publication. The UCR dataset is a publicly available collection and can be found
+&lt;a href=&#34;http://www.timeseriesclassification.com/dataset.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Online Structure Learning for Composite Event Recognition</title>
+      <link>https://vagmcs.github.io/pub/splice/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/splice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INFORE</title>
+      <link>https://vagmcs.github.io/project/infore/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/infore/</guid>
+      <description>&lt;p&gt;INFORE is a H2020 project on extreme-scale interactive analytics and forecasting. The aim of the project is to address the challenges posed by huge datasets and pave the way for real-time, interactive, extreme-scale analytics and forecasting. Today, at an increasing rate, industrial and scientific institutions need to deal with massive data flows, streaming-in from maritime surveillance applications, financial forecasting applications or cancel cells growth simulations as well as a multitude of other sources. The ability to forecast, as early as possible, a good approximation to the outcome of a time-consuming and resource demanding computational task allows to quickly identify undesired outcomes and save a valuable amount of time, effort and computational resources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Track&amp;Know</title>
+      <link>https://vagmcs.github.io/project/track_and_know/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/track_and_know/</guid>
+      <description>&lt;p&gt;Track &amp;amp; Know is a H2020 project on big data for mobility tracking knowledge extraction in urban areas. The aim of the project is to introduce innovative software stacks and toolboxes addressing the emerging cross-sector markets related to automotive transportations and urban mobility in transport, mobility, motor insurance and health sectors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Complex Event Recognition Group</title>
+      <link>https://vagmcs.github.io/pub/the-complex-event-recognition-group/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/the-complex-event-recognition-group/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Learning of Weighted Relational Rules for Complex Event Recognition</title>
+      <link>https://vagmcs.github.io/pub/online-learning-of-weighted-relational-rules-for-complex-event-recognition/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/online-learning-of-weighted-relational-rules-for-complex-event-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datAcron</title>
+      <link>https://vagmcs.github.io/project/datacron/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/datacron/</guid>
+      <description>&lt;p&gt;datAcron aimed to advance the management and integrated exploitation of voluminous and heterogeneous data-at-rest (archival data) and data-in-motion (streaming data), in order to promote safety and effectiveness of critical operations related to vessels and airplanes, and further reducing the impact of these operations on the environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSL𝛼: Online Structure Learning Using Background Knowledge Axiomatization</title>
+      <link>https://vagmcs.github.io/pub/osla/</link>
+      <pubDate>Wed, 19 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/osla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Structure Learning for Traffic Management</title>
+      <link>https://vagmcs.github.io/pub/online-structure-learning-for-traffic-management/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/pub/online-structure-learning-for-traffic-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPEEDD</title>
+      <link>https://vagmcs.github.io/project/speedd/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/speedd/</guid>
+      <description>&lt;p&gt;SPEEDD developed a prototype for proactive event-driven decision-making wherein decisions are triggered by forecasting events. The decisions are in real-time and require on-the-fly processing of large amounts of noisy data flooding in from various geographical locations, and historical data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REVEAL</title>
+      <link>https://vagmcs.github.io/project/reveal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/reveal/</guid>
+      <description>&lt;p&gt;REVEAL aimed to advance the necessary technologies for making a higher level analysis of social media possible. The project enables users to reveal hidden modalities such as reputation, influence or credibility of information in order to perform social media verification.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

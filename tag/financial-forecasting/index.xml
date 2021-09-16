@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Financial Forecasting | EM</title>
+    <link>https://vagmcs.github.io/tag/financial-forecasting/</link>
+      <atom:link href="https://vagmcs.github.io/tag/financial-forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Financial Forecasting</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>Financial Forecasting</title>
+      <link>https://vagmcs.github.io/tag/financial-forecasting/</link>
+    </image>
+    
+    <item>
+      <title>INFORE</title>
+      <link>https://vagmcs.github.io/project/infore/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/infore/</guid>
+      <description>&lt;p&gt;INFORE is a H2020 project on extreme-scale interactive analytics and forecasting. The aim of the project is to address the challenges posed by huge datasets and pave the way for real-time, interactive, extreme-scale analytics and forecasting. Today, at an increasing rate, industrial and scientific institutions need to deal with massive data flows, streaming-in from maritime surveillance applications, financial forecasting applications or cancel cells growth simulations as well as a multitude of other sources. The ability to forecast, as early as possible, a good approximation to the outcome of a time-consuming and resource demanding computational task allows to quickly identify undesired outcomes and save a valuable amount of time, effort and computational resources.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

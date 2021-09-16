@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publication_types | EM</title>
+    <link>https://vagmcs.github.io/publication_types/</link>
+      <atom:link href="https://vagmcs.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publication_types</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Mon, 22 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>Publication_types</title>
+      <link>https://vagmcs.github.io/publication_types/</link>
+    </image>
+    
+  </channel>
+</rss>

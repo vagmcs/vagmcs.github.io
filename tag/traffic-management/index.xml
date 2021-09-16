@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traffic Management | EM</title>
+    <link>https://vagmcs.github.io/tag/traffic-management/</link>
+      <atom:link href="https://vagmcs.github.io/tag/traffic-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>Traffic Management</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>Traffic Management</title>
+      <link>https://vagmcs.github.io/tag/traffic-management/</link>
+    </image>
+    
+    <item>
+      <title>SPEEDD</title>
+      <link>https://vagmcs.github.io/project/speedd/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/speedd/</guid>
+      <description>&lt;p&gt;SPEEDD developed a prototype for proactive event-driven decision-making wherein decisions are triggered by forecasting events. The decisions are in real-time and require on-the-fly processing of large amounts of noisy data flooding in from various geographical locations, and historical data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

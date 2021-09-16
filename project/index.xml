@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | EM</title>
+    <link>https://vagmcs.github.io/project/</link>
+      <atom:link href="https://vagmcs.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>https://vagmcs.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>INFORE</title>
+      <link>https://vagmcs.github.io/project/infore/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/infore/</guid>
+      <description>&lt;p&gt;INFORE is a H2020 project on extreme-scale interactive analytics and forecasting. The aim of the project is to address the challenges posed by huge datasets and pave the way for real-time, interactive, extreme-scale analytics and forecasting. Today, at an increasing rate, industrial and scientific institutions need to deal with massive data flows, streaming-in from maritime surveillance applications, financial forecasting applications or cancel cells growth simulations as well as a multitude of other sources. The ability to forecast, as early as possible, a good approximation to the outcome of a time-consuming and resource demanding computational task allows to quickly identify undesired outcomes and save a valuable amount of time, effort and computational resources.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Track&amp;Know</title>
+      <link>https://vagmcs.github.io/project/track_and_know/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/track_and_know/</guid>
+      <description>&lt;p&gt;Track &amp;amp; Know is a H2020 project on big data for mobility tracking knowledge extraction in urban areas. The aim of the project is to introduce innovative software stacks and toolboxes addressing the emerging cross-sector markets related to automotive transportations and urban mobility in transport, mobility, motor insurance and health sectors.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>datAcron</title>
+      <link>https://vagmcs.github.io/project/datacron/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/datacron/</guid>
+      <description>&lt;p&gt;datAcron aimed to advance the management and integrated exploitation of voluminous and heterogeneous data-at-rest (archival data) and data-in-motion (streaming data), in order to promote safety and effectiveness of critical operations related to vessels and airplanes, and further reducing the impact of these operations on the environment.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SPEEDD</title>
+      <link>https://vagmcs.github.io/project/speedd/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/speedd/</guid>
+      <description>&lt;p&gt;SPEEDD developed a prototype for proactive event-driven decision-making wherein decisions are triggered by forecasting events. The decisions are in real-time and require on-the-fly processing of large amounts of noisy data flooding in from various geographical locations, and historical data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>REVEAL</title>
+      <link>https://vagmcs.github.io/project/reveal/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/reveal/</guid>
+      <description>&lt;p&gt;REVEAL aimed to advance the necessary technologies for making a higher level analysis of social media possible. The project enables users to reveal hidden modalities such as reputation, influence or credibility of information in order to perform social media verification.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

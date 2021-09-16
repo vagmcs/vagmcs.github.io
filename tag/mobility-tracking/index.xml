@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobility Tracking | EM</title>
+    <link>https://vagmcs.github.io/tag/mobility-tracking/</link>
+      <atom:link href="https://vagmcs.github.io/tag/mobility-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mobility Tracking</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021 Evangelos Michelioudakis</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_2.png</url>
+      <title>Mobility Tracking</title>
+      <link>https://vagmcs.github.io/tag/mobility-tracking/</link>
+    </image>
+    
+    <item>
+      <title>Track&amp;Know</title>
+      <link>https://vagmcs.github.io/project/track_and_know/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/project/track_and_know/</guid>
+      <description>&lt;p&gt;Track &amp;amp; Know is a H2020 project on big data for mobility tracking knowledge extraction in urban areas. The aim of the project is to introduce innovative software stacks and toolboxes addressing the emerging cross-sector markets related to automotive transportations and urban mobility in transport, mobility, motor insurance and health sectors.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
