@@ -5,7 +5,7 @@
     <link>https://vagmcs.github.io/</link>
       <atom:link href="https://vagmcs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>EM</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021, 2023 Evangelos Michelioudakis</copyright><lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021, 2023 Evangelos Michelioudakis</copyright><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_3.png</url>
       <title>EM</title>
@@ -45,9 +45,9 @@
     </item>
     
     <item>
-      <title>Online Semi-Supervised Learning of Composite Event Rules Combining Structure and Mass-Based Predicate Similarity</title>
+      <title>Online Semi-Supervised Learning of Composite Event Rules by Combining Structure and Mass-Based Predicate Similarity</title>
       <link>https://vagmcs.github.io/pub/splice_plus/</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://vagmcs.github.io/pub/splice_plus/</guid>
       <description>&lt;p&gt;Data and source code will be uploaded as soon as the paper gets published.&lt;/p&gt;
 </description>
