@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Life Sciences | EM</title>
+    <title>Life Sciences | Evangelos</title>
     <link>https://vagmcs.github.io/tag/life-sciences/</link>
       <atom:link href="https://vagmcs.github.io/tag/life-sciences/index.xml" rel="self" type="application/rss+xml" />
     <description>Life Sciences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021, 2024 Evangelos Michelioudakis</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2024 Evangelos Michelioudakis</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_3.png</url>
       <title>Life Sciences</title>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python | EM</title>
+    <title>Python | Evangelos</title>
     <link>https://vagmcs.github.io/tag/python/</link>
       <atom:link href="https://vagmcs.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2019, 2020, 2021, 2024 Evangelos Michelioudakis</copyright><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright 2024 Evangelos Michelioudakis</copyright><lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vagmcs.github.io/media/logo_hu9f58575050eeae84e7981ffa5c67966d_3568_300x300_fit_lanczos_3.png</url>
       <title>Python</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Poetry Docker Plugin</title>
-      <link>https://vagmcs.github.io/software/poetry_docker/</link>
-      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://vagmcs.github.io/software/poetry_docker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PRML</title>
       <link>https://vagmcs.github.io/software/prml/</link>
       <pubDate>Tue, 25 Mar 2014 00:00:00 +0000</pubDate>
       <guid>https://vagmcs.github.io/software/prml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ETS</title>
+      <link>https://vagmcs.github.io/software/optimus/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/software/optimus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poetry Docker Plugin</title>
+      <link>https://vagmcs.github.io/software/poetry_docker/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://vagmcs.github.io/software/poetry_docker/</guid>
       <description></description>
     </item>
     
