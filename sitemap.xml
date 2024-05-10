@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vagmcs.github.io/software/ets/</loc>
-    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
+    <loc>https://vagmcs.github.io/software/optimus/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/software/lomrf/</loc>
     <lastmod>2014-03-25T00:00:00+00:00</lastmod>
@@ -11,11 +11,11 @@
     <loc>https://vagmcs.github.io/software/prml/</loc>
     <lastmod>2014-03-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vagmcs.github.io/software/optimus/</loc>
-    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vagmcs.github.io/software/scalatikz/</loc>
     <lastmod>2017-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagmcs.github.io/software/ets/</loc>
+    <lastmod>2015-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/software/poetry_docker/</loc>
     <lastmod>2023-12-11T00:00:00+00:00</lastmod>
@@ -44,7 +44,10 @@
     <loc>https://vagmcs.github.io/tag/time-series/</loc>
     <lastmod>2024-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vagmcs.github.io/tag/python/</loc>
+    <loc>https://vagmcs.github.io/tag/optimization/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagmcs.github.io/tag/scala/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/software/</loc>
@@ -57,6 +60,9 @@
     <lastmod>2023-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/tag/poetry/</loc>
+    <lastmod>2023-12-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vagmcs.github.io/tag/python/</loc>
     <lastmod>2023-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/pub/scalable-semi-supervised-structure-learning-for-event-recognition/</loc>
@@ -126,9 +132,6 @@
     <lastmod>2018-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/tag/latex/</loc>
-    <lastmod>2017-08-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://vagmcs.github.io/tag/scala/</loc>
     <lastmod>2017-08-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vagmcs.github.io/tag/air-traffic-management/</loc>
